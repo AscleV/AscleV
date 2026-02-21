@@ -1,16 +1,18 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AscleV&section=header&fontAlign=50&animation=twinkling" />
 </p>
+
+### About me ?
+<p align="center">
+  Student / Gamer / Cat
+</p>
+
 <p align= "center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&fontAlign=50&animation=twinkling&desc=Vincent%20Ebarsabal&descAlignY=92"/>
 </p>
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Stats Card" width="400" />
-  <img src="https://github-readme-stats.vercel.app" alt="Top Langs" width="300" />
-</p>
+
 
 ---
 
