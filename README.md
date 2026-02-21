@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=AscleV&section=header&fontAlign=50&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=AscleV&section=header&fontAlign=50&animation=twinkling" />
 </p>
-
-<h2 align="center">🚀 Inspiring programmer</h2>
+<h2 align="center"> Inspiring programmer</h2>
 
 ---
 
