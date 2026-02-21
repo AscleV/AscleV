@@ -1,14 +1,8 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.appVincent!&fontSize=70" />
+  <img src="https://capsule-render.vercel.app" />
 </p>
->
-<h2 align="center">🚀Inspiring programmer</h2>
 
-<p align="center">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
+<h2 align="center">🚀 Inspiring programmer</h2>
 
 ---
 
@@ -20,7 +14,6 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <!-- Use logos from SimpleIcons or Shields.io -->
   <img src="https://img.shields.io" />
   <img src="https://img.shields.io" />
   <img src="https://img.shields.io" />
@@ -29,12 +22,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.appAscleV&show_icons=true&theme=radical" alt="Stats Card" width="400" />
-  <img src="https://github-readme-stats.vercel.appAscleV&layout=compact&theme=radical" alt="Top Langs" width="300" />
+  <img src="https://github-readme-stats.vercel.app" alt="Stats Card" width="400" />
+  <img src="https://github-readme-stats.vercel.app" alt="Top Langs" width="300" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.comAscleV&label=Profile%20views&color=0e75b6&style=flat" alt="Views Counter" />
+  <img src="https://komarev.com" alt="Views Counter" />
 </p>
