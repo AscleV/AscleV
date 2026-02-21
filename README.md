@@ -29,12 +29,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app[AscleV]&show_icons=true&theme=radical" alt="Stats Card" width="400" />
-  <img src="https://github-readme-stats.vercel.app[AscleV]&layout=compact&theme=radical" alt="Top Langs" width="300" />
+  <img src="https://github-readme-stats.vercel.appAscleV&show_icons=true&theme=radical" alt="Stats Card" width="400" />
+  <img src="https://github-readme-stats.vercel.appAscleV&layout=compact&theme=radical" alt="Top Langs" width="300" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com[AscleV]&label=Profile%20views&color=0e75b6&style=flat" alt="Views Counter" />
+  <img src="https://komarev.comAscleV&label=Profile%20views&color=0e75b6&style=flat" alt="Views Counter" />
 </p>
