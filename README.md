@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AscleV&section=header&fontAlign=50&animation=twinkling" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">A passionate frontend developer from Cat island</h3>
+<h1 align="center">I'm Vincent</h1>
+<h3 align="center">A passionate cat from Cat island</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asclev" alt="asclev" /></a> </p>
+<p align="left"> 
 
 - 🔭 I’m currently working on **nothing**
 
