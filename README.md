@@ -14,10 +14,10 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io/](https://img.shields.io/badge/just%20the%20message-8A2BE2"&v=1 />
+  <img src="https://img.shields.io"&v=1 />
+  <img src="https://img.shields.io"&v=1 />
+  <img src="https://img.shields.io"&v=1 />
 </p>
 
 ### 📊 GitHub Stats
