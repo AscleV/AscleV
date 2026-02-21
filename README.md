@@ -1,11 +1,11 @@
-<p >
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AscleV&section=header&fontAlign=50&animation=twinkling" />
+<p align="center" >
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=AscleV&section=header&fontAlign=50&animation=twinkling" />
 </p>
 
 <h1 align="center">I'm Vincent</h1>
 <h3 align="center">A passionate cat from Cat island</h3>
 
-<p align="left"> 
+<p align="center"> 
 
 - 🔭 I’m currently working on **nothing**
 
