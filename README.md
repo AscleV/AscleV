@@ -25,7 +25,7 @@
 
 
 <p align= "center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&fontAlign=50&animation=twinkling&desc=Vincent%20Ebarsabal&descAlignY=92"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&fontAlign=50&animation=twinkling&desc=Vincent%20Ebarsabal&descAlignY=92"/>
 </p>
 
 
