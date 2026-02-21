@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=AscleV&section=header&fontAlign=50&animation=twinkling)" />
+  <img src="https://capsule-render.vercel.app](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=AscleV&section=header&fontAlign=50&animation=twinkling" />
 </p>
 
 <h2 align="center">🚀 Inspiring programmer</h2>
@@ -11,7 +11,9 @@
 - 🌱 I’m currently learning **Java & Javascript**
 - 💬 Ask me about **anything**
 - ⚡ Fun fact: **I'm a single father**
-
+<p align= "center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&fontAlign=50&animation=twinkling&desc=Vincent%20Ebarsabal&descAlignY=92"/>
+</p>
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/](https://img.shields.io/badge/just%20the%20message-8A2BE2"&v=1 />
